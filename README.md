@@ -4,3 +4,6 @@
 ##### Avant la construction du Dashboard en utilisant Tableau , on a procédé au pré-traitement du dataset  (néttoyage des données, verifications des valeurs manquantes et doublons, coversion du dtype..) en utilisant Python.
 
 ##### https://public.tableau.com/app/profile/chahra.hamitouche/viz/ExportationsB-to-CE-commerce/Tableaudebord1
+
+### Principaux résultats de la visualisation.
+
